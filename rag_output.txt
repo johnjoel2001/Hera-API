@@ -1,43 +1,42 @@
 
 ### 🌟 1. Volume
-- **SHAP Impact**: -0.012 (negative)
+- **SHAP Impact**: -0.005 (negative)
 - **Value Comparison**:
-  - `Previous Value: 4.0`
-  - `Current Value: 2.5`
-  - `Change: 🔻 (-1.50)`
-- **Explanation**: A decrease in volume negatively impacts fertility as it can affect the total sperm count available for conception.
-- **Suggestions**: Ensure proper hydration, a balanced diet, and avoid excessive alcohol consumption to potentially improve volume. (Healthy Living by Nutritionist X)
+  - Previous Value: 2.5
+  - Current Value: 3.0
+  - Change: 🔺 (+0.50)
+- **Explanation**: Volume refers to the amount of semen produced during ejaculation. An increase in volume can positively impact fertility by providing more fluid for sperm transport. Your slight increase in volume contributed positively to your fertility score.
+- **Appreciation**: Your efforts seem to be positively affecting this factor. Keep up the good work!
+- **Suggestions**: Stay hydrated, maintain a balanced diet rich in nutrients like zinc and antioxidants, and avoid excessive alcohol consumption to support healthy semen production.
 
 ### 🌟 2. Concentration
-- **SHAP Impact**: -0.244 (negative)
+- **SHAP Impact**: -0.644 (negative)
 - **Value Comparison**:
-  - `Previous Value: 27.0`
-  - `Current Value: 49.0`
-  - `Change: 🔺 (+22.00)`
-- **Explanation**: An increase in concentration is a positive sign for fertility, indicating a higher density of sperm in the ejaculate.
-- **Appreciation**: Congratulations on this significant improvement in concentration!
-- **Suggestions**: Continue with a healthy lifestyle, consider fertility-friendly supplements, and consult with a healthcare provider for further guidance. (Fertility Wellness Guide by Specialist Y)
+  - Previous Value: 49.0
+  - Current Value: 20.0
+  - Change: 🔻 (-29.00)
+- **Explanation**: Concentration represents the number of sperm cells in a given volume of semen. A decrease in concentration can lower fertility chances. The significant drop in concentration had a negative impact on your fertility score.
+- **Suggestions**: Consult with a healthcare provider to investigate potential causes of decreased sperm concentration. Lifestyle changes, dietary adjustments, and medical interventions may help improve this factor.
 
 ### 🌟 3. Motility
-- **SHAP Impact**: -2.292 (negative)
+- **SHAP Impact**: -0.308 (negative)
 - **Value Comparison**:
-  - `Previous Value: 13.0`
-  - `Current Value: 25.0`
-  - `Change: 🔺 (+12.00)`
-- **Explanation**: Improved motility is crucial for sperm to reach and fertilize the egg, positively impacting fertility.
-- **Appreciation**: Well done on enhancing your motility score significantly!
-- **Suggestions**: Maintain a healthy weight, exercise regularly, and avoid excessive heat exposure to support and potentially further boost motility. (Fertility Handbook by Dr. Z)
+  - Previous Value: 25.0
+  - Current Value: 50.0
+  - Change: 🔺 (+25.00)
+- **Explanation**: Motility refers to the sperm's ability to move effectively. Improved motility is crucial for successful fertilization. Your significant increase in motility positively influenced your fertility score.
+- **Appreciation**: Your progress in this area is commendable and bodes well for your fertility prospects.
+- **Suggestions**: Regular exercise, a healthy diet, and avoiding excessive heat exposure (like hot baths or saunas) can further enhance sperm motility.
 
 ### 📊 Intraclass Correlation Coefficient (ICC) Score Tracking
-- **Your Test History**: 2 tests taken
-- **Score Progression**: 5.5% → 16.6%
-- **Reliability Score**: 0.60 out of 1.0 (Moderate reliability)
-- **What This Means**: Your fertility tracking is becoming reliable, so even smaller changes like (5.5% → 16.6%) are probably meaningful.
-- **Why It Matters**: Consistent tracking means you can trust even subtle improvements or declines as real changes. (Fertility Tracking Insights by Researcher A)
+- **Score Progression**: 16.6% → 49.4%
+- **Reliability Score**: 0.60 (Moderate reliability)
+- **What This Means**: Your fertility scores are becoming more consistent and reliable over time, indicating real changes in your fertility factors.
+- **Next Steps**: Continue tracking your scores to monitor progress and make informed decisions based on reliable data.
 
 ### ✅ Summary & Next Steps
-- 📈 **Improved Factors**: Concentration and Motility have shown significant positive changes.
-- ⚠️ **Features Needing Focus**: Volume still requires attention for potential enhancement.
-- 🧭 **Personalized Next Steps**: Focus on hydration, diet, and lifestyle adjustments to further improve volume and overall fertility health. (Fertility Enhancement Plan by Specialist B)
+- 📈 **Improved Factors**: Motility has shown significant improvement, enhancing your fertility score.
+- ⚠️ **Features Needing Focus**: Concentration remains a critical factor that requires attention to optimize fertility chances.
+- 🧭 **Personalized Next Steps**: Consider consulting a fertility specialist to address concentration issues and explore tailored interventions for optimal fertility outcomes.
 
-Remember, progress is a journey, and each positive change brings you closer to your fertility goals. Stay committed to your well-being and consult with experts for personalized guidance. Your efforts are making a difference! 🌟
+Remember, each step you take towards improving your fertility factors can positively impact your chances of natural conception. Stay proactive, stay informed, and keep nurturing your fertility journey with care and dedication.
