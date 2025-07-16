@@ -194,6 +194,11 @@
 # st.caption("🧠 Disclaimer: This tool is for educational use only. Not a substitute for professional diagnosis.")
 # st.markdown("[Terms of Service](https://herafertility.co/policies/terms-of-service) | [Privacy Policy](https://herafertility.co/policies/privacy-policy)")
 
+###################streamit cloud version
+
+
+
+
 
 import streamlit as st
 import json

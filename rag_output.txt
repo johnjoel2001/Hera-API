@@ -1,41 +1,56 @@
 
-🌟 **1. Volume**
-- **SHAP Impact**: +0.009 (positive)
-- **Value Comparison**:
-  - Previous Value: 3.15
-  - Current Value: 4.0
-  - Change: 🔺 (+0.85)
-- **Explanation**: An increase in volume from 3.15 to 4.0 positively impacted your fertility score. Adequate volume is crucial for sperm health and successful conception.
-- **Appreciation**: Congratulations on this improvement! It shows a positive trend in your fertility potential.
-- **Suggestions**: Maintain hydration, a balanced diet, and avoid excessive heat exposure to support healthy sperm volume.
+### 🌟 1. Volume
+- **SHAP Impact**: -0.012 (negative) 🔻 (-1.50)
+- **Previous Value**: 4.0
+- **Current Value**: 2.5
+- **Change**: 🔻 (-1.50)
+- **Explanation**: A decrease in volume negatively impacts fertility scores. Consistency in volume measurements is crucial for accurate assessments.
+- **Appreciation**: Consistency in volume measurements is key for reliable fertility tracking.
+- **Suggestions**: Ensure consistent hydration levels and collection methods for more stable volume readings.
 
-🌟 **2. Concentration**
-- **SHAP Impact**: -0.547 (negative)
-- **Value Comparison**:
-  - Previous Value: 153.0
-  - Current Value: 27.0
-  - Change: 🔻 (-126.00)
-- **Explanation**: The decrease in concentration from 153.0 to 27.0 had a significant negative impact on your fertility score. Concentration reflects the number of sperm in a sample, crucial for fertility.
-- **Suggestions**: Consult with a healthcare provider to address factors affecting sperm concentration, such as lifestyle changes, nutritional supplements, or medical interventions.
+### 🌟 2. Concentration
+- **SHAP Impact**: -0.244 (negative) 🔺 (+22.00)
+- **Previous Value**: 27.0
+- **Current Value**: 49.0
+- **Change**: 🔺 (+22.00)
+- **Explanation**: An increase in concentration has a negative impact on fertility scores. Concentration variability can affect fertility predictions.
+- **Appreciation**: Concentration improvements can positively influence fertility outcomes.
+- **Suggestions**: Consider same-day repeat testing to validate concentration changes and maintain consistent results.
 
-🌟 **3. Motility**
-- **SHAP Impact**: -3.244 (negative)
-- **Value Comparison**:
-  - Previous Value: 49.0
-  - Current Value: 13.0
-  - Change: 🔻 (-36.00)
-- **Explanation**: The decline in motility from 49.0 to 13.0 greatly impacted your fertility score negatively. Motility is vital for sperm to reach and fertilize the egg.
-- **Suggestions**: Discuss with a specialist to improve sperm motility through lifestyle modifications, regular exercise, and potential treatments tailored to enhance sperm movement.
+### 🌟 3. Motility
+- **SHAP Impact**: -2.292 (negative) 🔺 (+12.00)
+- **Previous Value**: 13.0
+- **Current Value**: 25.0
+- **Change**: 🔺 (+12.00)
+- **Explanation**: Improved motility positively impacts fertility scores. High motility is crucial for successful conception.
+- **Appreciation**: Motility improvements are significant for fertility prospects.
+- **Suggestions**: Continue monitoring motility trends closely and focus on factors that enhance sperm movement quality.
 
-📊 **Intraclass Correlation Coefficient (ICC) Score Tracking**
-- **Your Test History**: 2 tests taken
-- **Score Progression**: 85.0% → 5.5%
-- **Reliability Score**: 0.60 (Moderate reliability)
-- **What This Means**: Your results are becoming more predictable, indicating a significant change in fertility score. Trust this improvement as it reflects real progress.
+📊 **True ICC Analysis (Intraclass Correlation Coefficient):**
+- **Overall ICC Score (Fertility Predictions)**: 0.600 (Moderate consistency)
+- **Overall ICC Score (Combined Parameters)**: 0.580 (Moderate consistency)
 
-✅ **Summary & Next Steps**
-- **Improved Factors**: Volume showed a positive change, indicating progress.
-- ⚠️ **Features Needing Focus**: Concentration and motility require attention for enhancing fertility prospects.
-- 🧭 **Personalized Next Steps**: Seek professional guidance to address concentration and motility issues and continue monitoring your fertility journey with optimism and dedication.
+**🔬 Parameter-Specific ICC Results:**
+- **Volume ICC Score**: 0.451 (Poor consistency)
+- **Concentration ICC Score**: 0.479 (Poor consistency)
+- **Motility ICC Score**: 0.810 (Good consistency)
 
-Remember, fertility is a journey, and each step towards improvement is valuable. Stay positive, proactive, and seek support to optimize your fertility health.
+🎯 **What Your ICC Results Mean - Clinical Interpretation:**
+- **Overall Picture**: Mixed consistency - some parameters are reliable, others need more data.
+- **Parameter-by-Parameter Analysis**: 
+  - **Motility ICC = 0.810 (Good consistency) ✅**
+    - **Clinical Action**: Trust motility trends for real biological changes.
+  - **Concentration ICC = 0.479 (Poor consistency) ⚠️**
+    - **Clinical Action**: Wait for trends, focus on consistent patterns.
+  - **Volume ICC = 0.451 (Poor consistency) ⚠️**
+    - **Clinical Action**: Look for consistent patterns, consider standardizing testing conditions.
+
+🎯 **Clinical Inference Summary:**
+- **✅ What You CAN Trust**: Motility changes and overall fertility score trends.
+- **⚠️ What to Be Cautious About**: Single volume and concentration measurements, short-term fluctuations.
+
+📈 **Improved Factors**: Motility improvements are significant.
+- **Features Needing Focus**: Concentration and volume consistency.
+- **Personalized Next Steps**: Continue monitoring motility closely, aim for consistent volume and concentration readings.
+
+Your motility tracking is excellent, indicating real biological changes. Volume and concentration need more consistent data for accurate fertility assessments. Stay consistent with testing and focus on factors that enhance all parameters for improved fertility outcomes. 🌟
